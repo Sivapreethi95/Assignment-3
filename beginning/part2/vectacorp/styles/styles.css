@@ -1,0 +1,108 @@
+body {
+    width:960px;
+    margin-left:20px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    line-height: 2em;
+}
+ul:first-of-type {
+    list-style-type: none;
+    padding-left: 0px;
+    /* padding-inline-start: 0px; */
+    margin: 0px; 
+}
+ul.solutions_submenu li{
+    /* padding-inline-start: 40px; */
+    padding-left: 40px;
+}
+h2 {
+    color: #CC1C0D;
+    background-color: #DFE3E6;
+    border-style:solid;
+    background-color: #DFE3E6;
+    border-style: solid;
+    border-color: #929CA4;
+    border-width: thin;
+    border-radius: 7px;
+    padding-left: 10px;
+    
+}
+a:link {
+    color: #CC1C0D;
+}
+img.solutions_image {
+    float: left;
+    padding-top: 9px;
+    padding-right: 5px;
+}
+section img.aboutus_image {
+    border-style:solid;
+    border-color: red;
+    border-width: 1px;
+    border-radius: 45px;
+    float: left;
+    margin-right: 21px;
+    margin-top: 10px;
+}
+
+.pricing div {
+    float: left;
+    border-style: solid;
+    border-color: #929CA4;
+    border-width: thin;
+    border-radius: 7px;
+    padding-left: 49px;
+    padding-top: 15px;
+    margin-right: 5px;
+    margin-bottom: 0px;
+    padding-right: 49px;
+    height: 285px;
+    text-align: center;
+}
+.e_pricing {
+    padding-top:26px !important;
+    height: 274px !important;
+}
+hr.prospect {
+    width: 173%;
+    height: 8px;
+    margin-right: auto;
+    margin-left: -49px;
+    background-color: #CC1C0D;
+    border: 0 none;
+    margin-top: 11px;
+    margin-bottom: 11px;
+}
+hr.convert {
+    width: 174%;
+    height: 8px;
+    margin-right: auto;
+    margin-left: -49px;
+    background-color: #37A4A4;
+    border: 0 none;
+    margin-top: 11px;
+    margin-bottom: 11px;
+}
+hr.retain {
+    width: 173%;
+    height: 8px;
+    margin-right: auto;
+    margin-left: -49px;
+    background-color: #685288;
+    border: 0 none;
+    margin-top: 11px;
+    margin-bottom: 11px;
+}
+hr.enterprise {
+    width: 172%;
+    height: 8px;
+    margin-right: auto;
+    margin-left: -49px;
+    background-color: #000000;
+    border: 0 none;
+    margin-top: 15px;
+    margin-bottom: 11px;
+}
